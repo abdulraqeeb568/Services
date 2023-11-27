@@ -1,0 +1,112 @@
+C:\Dev\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\obj\Debug\PushJsonReportsToMongoDbService.csproj.AssemblyReference.cache
+C:\Dev\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\obj\Debug\PushJsonReportsToMongoDbService.csproj.SuggestedBindingRedirects.cache
+C:\Dev\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\obj\Debug\PushJsonReportsToMongoDbService.csproj.CoreCompileInputs.cache
+C:\Dev\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\mongocrypt.dll
+C:\Dev\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\PushJsonReportsToMongoDb.exe.config
+C:\Dev\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\PushJsonReportsToMongoDb.exe
+C:\Dev\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\PushJsonReportsToMongoDb.pdb
+C:\Dev\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\DnsClient.dll
+C:\Dev\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Dev\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Dev\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Dev\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\MongoDB.Bson.dll
+C:\Dev\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\MongoDB.Driver.Core.dll
+C:\Dev\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\MongoDB.Driver.dll
+C:\Dev\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Dev\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\ReturnStatus.dll
+C:\Dev\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\SharpCompress.dll
+C:\Dev\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\Snappier.dll
+C:\Dev\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\System.Buffers.dll
+C:\Dev\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\System.Memory.dll
+C:\Dev\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\System.Numerics.Vectors.dll
+C:\Dev\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Dev\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\System.Security.AccessControl.dll
+C:\Dev\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\System.Security.Principal.Windows.dll
+C:\Dev\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Dev\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Dev\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\ZstdSharp.dll
+C:\Dev\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\Newtonsoft.Json.dll
+C:\Dev\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\DnsClient.xml
+C:\Dev\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Dev\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Dev\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Dev\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\MongoDB.Bson.xml
+C:\Dev\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\MongoDB.Driver.xml
+C:\Dev\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\MongoDB.Driver.Core.xml
+C:\Dev\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\Snappier.xml
+C:\Dev\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\System.Buffers.xml
+C:\Dev\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\System.Memory.xml
+C:\Dev\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\System.Numerics.Vectors.xml
+C:\Dev\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Dev\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\System.Security.AccessControl.xml
+C:\Dev\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\System.Security.Principal.Windows.xml
+C:\Dev\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Dev\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Dev\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\Newtonsoft.Json.xml
+C:\Dev\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\obj\Debug\PushJsonReportsToMongoDbService.csproj.CopyComplete
+C:\Dev\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\obj\Debug\PushJsonReportsToMongoDb.exe
+C:\Dev\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\obj\Debug\PushJsonReportsToMongoDb.pdb
+C:\Dev\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\libzstd.dll
+C:\Dev\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\snappy32.dll
+C:\Dev\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\snappy64.dll
+C:\Dev\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\libsnappy64.so
+C:\Dev\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\libzstd.so
+C:\Dev\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\libsnappy64.dylib
+C:\Dev\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\libzstd.dylib
+C:\Abdul Raqeeb\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\libzstd.dll
+C:\Abdul Raqeeb\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\snappy32.dll
+C:\Abdul Raqeeb\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\snappy64.dll
+C:\Abdul Raqeeb\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\libsnappy64.so
+C:\Abdul Raqeeb\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\libzstd.so
+C:\Abdul Raqeeb\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\libsnappy64.dylib
+C:\Abdul Raqeeb\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\libzstd.dylib
+C:\Abdul Raqeeb\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\mongocrypt.dll
+C:\Abdul Raqeeb\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\PushJsonReportsToMongoDb.exe.config
+C:\Abdul Raqeeb\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\PushJsonReportsToMongoDb.exe
+C:\Abdul Raqeeb\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\PushJsonReportsToMongoDb.pdb
+C:\Abdul Raqeeb\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\DnsClient.dll
+C:\Abdul Raqeeb\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Abdul Raqeeb\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Abdul Raqeeb\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Abdul Raqeeb\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\MongoDB.Bson.dll
+C:\Abdul Raqeeb\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\MongoDB.Driver.Core.dll
+C:\Abdul Raqeeb\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\MongoDB.Driver.dll
+C:\Abdul Raqeeb\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Abdul Raqeeb\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\Newtonsoft.Json.dll
+C:\Abdul Raqeeb\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\SharpCompress.dll
+C:\Abdul Raqeeb\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\Snappier.dll
+C:\Abdul Raqeeb\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\System.Buffers.dll
+C:\Abdul Raqeeb\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\System.Memory.dll
+C:\Abdul Raqeeb\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\System.Numerics.Vectors.dll
+C:\Abdul Raqeeb\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Abdul Raqeeb\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\System.Security.AccessControl.dll
+C:\Abdul Raqeeb\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\System.Security.Principal.Windows.dll
+C:\Abdul Raqeeb\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Abdul Raqeeb\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Abdul Raqeeb\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\Topshelf.dll
+C:\Abdul Raqeeb\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\ZstdSharp.dll
+C:\Abdul Raqeeb\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\DnsClient.xml
+C:\Abdul Raqeeb\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Abdul Raqeeb\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Abdul Raqeeb\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Abdul Raqeeb\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\MongoDB.Bson.xml
+C:\Abdul Raqeeb\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\MongoDB.Driver.xml
+C:\Abdul Raqeeb\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\MongoDB.Driver.Core.xml
+C:\Abdul Raqeeb\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\Newtonsoft.Json.xml
+C:\Abdul Raqeeb\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\Snappier.xml
+C:\Abdul Raqeeb\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\System.Buffers.xml
+C:\Abdul Raqeeb\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\System.Memory.xml
+C:\Abdul Raqeeb\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\System.Numerics.Vectors.xml
+C:\Abdul Raqeeb\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Abdul Raqeeb\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\System.Security.AccessControl.xml
+C:\Abdul Raqeeb\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\System.Security.Principal.Windows.xml
+C:\Abdul Raqeeb\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Abdul Raqeeb\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Abdul Raqeeb\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\Topshelf.xml
+C:\Abdul Raqeeb\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\obj\Debug\PushJsonReportsToMongoDbService.csprojAssemblyReference.cache
+C:\Abdul Raqeeb\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\obj\Debug\PushJsonReportsToMongoDbService.csproj.CoreCompileInputs.cache
+C:\Abdul Raqeeb\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\obj\Debug\PushJsonReportsToMongoDbService.csproj.CopyComplete
+C:\Abdul Raqeeb\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\obj\Debug\PushJsonReportsToMongoDb.exe
+C:\Abdul Raqeeb\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\obj\Debug\PushJsonReportsToMongoDb.pdb
+C:\Dev\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\Topshelf.dll
+C:\Dev\PushJsonReportsToMongoDb\PushJsonReportsToMongoDb\bin\Debug\Topshelf.xml
